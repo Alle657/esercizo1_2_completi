@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/Utente/Desktop/esercizo1_2_completi/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Utente/Desktop/esercizo1_2_completi",
+	"dir-top-bld" : "C:/Users/Utente/Desktop/esercizo1_2_completi/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Utente/Desktop/esercizo1_2_completi",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Utente/Desktop/esercizo1_2_completi/cmake-build-debug/CMakeFiles/esercizo1_2_completi.dir"
+}

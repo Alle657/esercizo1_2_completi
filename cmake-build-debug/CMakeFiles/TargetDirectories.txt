@@ -1,0 +1,3 @@
+C:/Users/Utente/Desktop/esercizo1_2_completi/cmake-build-debug/CMakeFiles/esercizo1_2_completi.dir
+C:/Users/Utente/Desktop/esercizo1_2_completi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utente/Desktop/esercizo1_2_completi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
